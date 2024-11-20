@@ -20,8 +20,8 @@ body:
 - type: dropdown
   id: sim
   attributes:
-    label: Simulator
-    description: What sim are you using?
+    label: Simulator Version
+    description: Which sim are you using?
     options:
     - 2020
     - 2024
