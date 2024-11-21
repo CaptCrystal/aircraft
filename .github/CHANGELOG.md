@@ -49,6 +49,7 @@
 1. [A32NX/TELEX] Keep flight number set even if already taken - @BenJuan26 (BenJuan26)
 1. [HYD] Placeholder inhibit logic for electrical backup on ground - @Crocket63 (crocket)
 1. [A380X/PRESS] Add pressurization system failures failures ecam messages - @mjuhe (Miquel Juhe)
+1. [A380X] Add rudder trim functionality to SECs, add rudder trim indication to PFD, activate indication on SD/FCTL - @flogross89 (floridude)
 1. [A380X/MFD] Fix ETA and add TOD prediction in PERF page - @BravoMike99 (bruno_pt99)
 1. [A380X/PFD] Add T/D Reached PFD message - @BravoMike99 (bruno_pt99)
 1. [A380X/CAMERA] Showcase & pilot view camera fixes @LunakisDev (LunakisLeaks)
@@ -69,6 +70,11 @@
 1. [FMS] Fix Pause at T/D not working in selected speed - @BlueberryKing (BlueberryKing)
 1. [MISC] Replaced brake temperature simulation with physics based model of brakes - @Gurgel100 (Pascal)
 1. [A32NX/MCDU] Suppress TMPY FPLN when no modifications made in airways page - @robertxing2004 (robeet)
+1. [A380X/FMC] Fix reset of perf data on done phase or database swap - @tracernz (Mike)
+1. [A32NX/ATC] Fixed ATC/TCAS power supply - @tracernz (Mike)
+1. [A32NX] Fixed appearance of FCU decals on MSFS2024 - @tracernz (Mike)
+1. [FMS] Fixed issue with airport loading timing out on MSFS2024 - @tracernz (Mike)
+1. [A32NX] Fixed APU fire detection - @tracernz (Mike)
 
 ## 0.12.0
 
